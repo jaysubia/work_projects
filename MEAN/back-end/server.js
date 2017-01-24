@@ -3,9 +3,7 @@ var app = express();
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
-var Message = mongoose.model('Message', {
-    msg: String
-});
+var Message = require('./models/Message');
 
 mongoose.Promise = global.Promise;
 
@@ -29,6 +27,8 @@ app.post('/api/message',function(req,res){
 
 app.post('/auth/register', function(req,res){
     console.log(req.body);
+
+    var user = new User(req.body);
 })
 
 function GetMessages(req,res)
