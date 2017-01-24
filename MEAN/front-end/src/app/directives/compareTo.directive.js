@@ -9,10 +9,10 @@ export function CompareToDirective($parse) {
             scope.$watch(attrs.ngModel, function (newValue) {
                 ngModel.$setValidity(attrs.name, newValue === mainModel(scope));
             });
-            scope.$watch(attrs.ngModel, function (newValue) {
+
+            scope.$watch(attrs.compareTo, function (newValue) {
                 ngModel.$setValidity(attrs.name, newValue === secondModel(scope));
             });
         }
     }
-
 }
