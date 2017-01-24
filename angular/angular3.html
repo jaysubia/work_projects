@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+	<script src="app3.js"></script>
+</head>
+<body ng-app="app3" ng-controller="MainController as main">
+	<div ng-repeat="item in main.items">
+	<table><tr>
+	<td>{{item.name | uppercase}}</td>>
+	<td>{{item.price | currency}}</td>
+	</tr></table>
+	</div>
+
+
+</body>
+</html>

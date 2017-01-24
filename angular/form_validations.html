@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+	<script src="app4.js"></script>
+</head>
+<body ng-app="app4">
+	<form ng-controller="FormController as formCtrl" name="form" ng-submit="formCtrl.sumbitForm()" novalidate>
+	<div>
+		<!-- get the users name -->
+		<label>Enter Name:</label>
+		<input type="text"
+			   name="user"
+			   ng-model="userName"
+			   ng-minlength=4
+			   ng-maxlength=10
+			   required />
+       <!-- get the user's name -->
+    <span style="color:#FF9980" ng-show="form.user.$dirty && form.user.$invalid">
+       <span ng-show="form.user.$error.required">
+       You must enter your user name
+       </span>
+       <span ng-show="form.user.$error.required">
+       Your user name is too short
+       </span>
+       <span ng-show="form.user.$error.maxlength">
+       Your user name is too long
+       </span>
+    </span>
+    </div>
+
+    <div></div>
+    <!-- get the user's age -->
+    <label>Enter Age:</label>
+    <input type="number"
+    	   name="age"
+    	   ng-model="userAge"
+    	   required />
+    <!-- get the user's age -->
+    <span style="color:#FF9980" ng-show="form.user.$dirty && form.user.$invalid">
+    <span ng-show="form.age.$error.required">
+    You must enter your age
+    </span>
+    <span ng-show="form.age.$error.nubmber">
+    Your age must be a number
+    </span>
+    </span>
+    </div>
+    <hr />
+
+    <!-- submit form -->
+    <input type="submit" name="submit"
+    	   value="Submit" ng-disabled="form.user.$invalid || form.age.$invalid"/>
+    </form>
+
+</body>
+</html>
