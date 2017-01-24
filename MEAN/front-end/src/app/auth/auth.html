@@ -1,0 +1,45 @@
+<div class="container">
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">Login</div>
+            <div class="panel-body">
+                <form>
+                    <div class="form-group">
+                        <label>Email address</label>
+                        <input type="email" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Password</label>
+                        <input type="password" class="form-control">
+                    </div>
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">Register</div>
+            <div class="panel-body">
+                <form name="register" ng-submit="auth.register()" novalidate>
+                    <div class="form-group">
+                        <label>Email address</label>
+                        <input type="email" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Password</label>
+                        <input type="password" class="form-control" name="pwd" ng-model="pwd" required />
+                    </div>
+                    <div class="form-group">
+                        <label>Password Confirm</label>
+                        <input type="password" class="form-control" compare-to="pwd" name="pwdConfirm" ng-model="pwdConfirm" required />
+                    </div>
+                    <span style="color:#FF9980" ng-show="register.pwdConfirm.$dirty && register.pwdConfirm.$invalid">
+                        <span ng-show="register.pwdConfirm.$error.required">Passwords do not match</span>
+                    </span>
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
