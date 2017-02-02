@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8a2e0e1-648e-4500-9304-050af293dd1b" name="Default" comment="Adding San Pedro Day Care">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/config/manifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/creative/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/creative/portfolio/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/creative/portfolio/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/creative/portfolio/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/creative/portfolio/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/creative/portfolio/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/images/creative/portfolio/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/access.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/administrators.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/alerts.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/cable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/channels/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/cbpAnimatedHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/creative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/creative_mainfest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/jquery.easing.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/jquery.fittext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/manifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/creative/wow.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/sessions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/javascripts/users.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/access.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/administrators.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/application.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/creative/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/creative/creative.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/creative/manifest.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/sessions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/assets/stylesheets/users.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/channels/application_cable/channel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/channels/application_cable/connection.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/controllers/access_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/controllers/administrators_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/controllers/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/controllers/creatives_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/controllers/sessions_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/controllers/users_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/helpers/access_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/helpers/administrators_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/helpers/sessions_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/helpers/users_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/jobs/application_job.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/mailers/application_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/models/application_record.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/models/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/models/user.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/access/_contact.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/access/login.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/access/menu.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/administrators/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/administrators/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/_bg_primary.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/_call_to_action.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/_contact.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/_header.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/_navbar.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/_portfolio.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/_services.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/creatives/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/layouts/creative.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/layouts/mailer.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/layouts/mailer.text.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/sessions/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/sessions/login.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/sessions/logout.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/sessions/profile.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/users/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/users/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/users/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/app/views/users/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/bin/bundle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/bin/rails" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/bin/rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/bin/setup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/bin/spring" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/bin/update" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/cable.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/application_controller_renderer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/cookies_serializer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/new_framework_defaults.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/puma.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/secrets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/config/spring.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/db/migrate/20170111045616_create_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/db/migrate/20170113024852_add_password_digest_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/db/migrate/20170113025629_remove_column_salt_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/db/schema.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/lib/assets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/lib/tasks/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/log/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/422.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/500.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/controllers/access_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/controllers/administrators_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/controllers/sessions_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/controllers/users_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/fixtures/files/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/fixtures/users.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/models/user_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/tmp/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/vendor/assets/javascripts/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/vendor/assets/javascripts/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/vendor/assets/stylesheets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/vendor/assets/stylesheets/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_website/vendor/assets/stylesheets/font_awesome.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advertising_rails" afterPath="$PROJECT_DIR$/advertising_rails" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/MEAN/back-end/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8a2e0e1-648e-4500-9304-050af293dd1b" name="Default" comment="" />
+      <created>1485800785334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485800785334</updated>
+      <workItem from="1485800789136" duration="65000" />
+      <workItem from="1485838992867" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
